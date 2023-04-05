@@ -1,21 +1,14 @@
-# reading-note-102n3
-My Reading Node for American Code Lab
+# My Reading Journal for American Code Lab
 
-## Heading 2
+Hi my name's Khoan Gip and i love coding!
 
-heading ***1 -> 6***
+## Table of Contents
 
-## List 
+### 102 Notes
 
-- List item 1
-- List item 2
-  - List item 2.1
-  - List item 2.2
-- List item 3
+- [Class 1 Reading Notes]()
+- Class 2 Reading Notes
+- ...
 
-## Link
+### 201 Notes
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-This is the link [https://google.com](https://google.com)
-
-## Image
