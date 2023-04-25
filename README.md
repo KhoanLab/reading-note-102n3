@@ -1,4 +1,4 @@
-# My Reading Journal for American Code Lab
+# My Reading Journal for American Code `Lab`
 
 Hi my name's Khoan Gip and i love coding!
 
